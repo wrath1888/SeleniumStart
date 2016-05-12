@@ -1,0 +1,5 @@
+C:\Users\toxa\Documents\Visual Studio 2015\Projects\Learn VisualStudio .net\Day3\SeleniumStart\SeleniumStart\bin\Debug\SeleniumStart.dll
+C:\Users\toxa\Documents\Visual Studio 2015\Projects\Learn VisualStudio .net\Day3\SeleniumStart\SeleniumStart\bin\Debug\SeleniumStart.pdb
+C:\Users\toxa\Documents\Visual Studio 2015\Projects\Learn VisualStudio .net\Day3\SeleniumStart\SeleniumStart\obj\Debug\SeleniumStart.csprojResolveAssemblyReference.cache
+C:\Users\toxa\Documents\Visual Studio 2015\Projects\Learn VisualStudio .net\Day3\SeleniumStart\SeleniumStart\obj\Debug\SeleniumStart.dll
+C:\Users\toxa\Documents\Visual Studio 2015\Projects\Learn VisualStudio .net\Day3\SeleniumStart\SeleniumStart\obj\Debug\SeleniumStart.pdb
